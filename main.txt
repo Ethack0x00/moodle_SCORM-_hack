@@ -1,0 +1,16 @@
+Inspect element over the SCORM frame
+Open the console and type:
+
+LMSSetValue('cmi.core.lesson_status', 'completed');
+
+LMSCommit('');
+
+LMSFinish('');
+
+Note that the name of the functions may variate but usually contain the keywords like "SetValue". In my case they are shown as "SCORM_LMSSetValue"
+
+
+Hope that this works for you.
+
+
+eth0x00
