@@ -7,7 +7,7 @@ LMSCommit('');
 
 LMSFinish('');
 
-Note that the name of the functions may variate but usually contain the keywords like "SetValue". In my case they are shown as "SCORM_LMSSetValue"
+Note that the name of the functions may variate but usually contain the keywords like "SetValue", "Commit" or "Finish". In my case they are shown as "SCORM_LMSSetValue"
 
 
 Hope that this works for you.
